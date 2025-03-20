@@ -12,7 +12,6 @@ This project is a simple API that allows users to perform CRUD (Create, Read, Up
 ## Technologies
 
 ### Back-end
-- **JavaScript**
 - **Node.js** with **Express**: To handle server-side logic and routing.
 - **MongoDB**: For database management and storing messages.
 
