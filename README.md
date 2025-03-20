@@ -16,7 +16,7 @@ This project is a simple API that allows users to perform CRUD (Create, Read, Up
 - **MongoDB**: For database management and storing messages.
 
 ### Front-end
-- **HTML** and **CSS**: Basic interface for interacting with the API.
+- **HTML** and **CSS** **Javascript**: Basic interface for interacting with the API.
 
 ## Project Structure
 
